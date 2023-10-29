@@ -14,8 +14,6 @@ The "Hospital In-Patient Discharges Data Analysis - New York" Git repository is 
 
 **Repository Contents:**
 
-**Data:** The "data" folder contains the raw dataset, along with any cleaned and preprocessed data files.
-
 **Notebooks:** Jupyter notebooks or R scripts used for data analysis and visualization. Each notebook is organized to follow the project's objectives and may include detailed explanations of the code and analysis.
 
 **Visualizations:** This folder includes images and visual representations of the data analysis findings.
